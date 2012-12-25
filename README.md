@@ -9,7 +9,7 @@ JUnitRule wrapper of DBUnit.
 
 Example
 --------
-[see. example](https://github.com/fukasawah/DBUnitRule/test/ryzzy/dbunitrule/example)
+[see. example](https://github.com/fukasawah/DBUnitRule/blob/master/test/ryzzy/dbunitrule/example/Ex01_UseDBUnitRule.java)
 
 
 Dependency liblary
