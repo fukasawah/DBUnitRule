@@ -1,6 +1,20 @@
+
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Eclipse files
+/.settings/
+.project
+.classpath
+
+
+# Directory
+/connectionlibs/
+/dependencylibs/
+/testlibs/
+/bin/
+
